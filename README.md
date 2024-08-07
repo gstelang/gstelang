@@ -8,10 +8,6 @@ I am a passionate developer with experience in full stack development, cloud com
 * Databases: MySQL, Cassandra, ElasticSearch, Kafka
 * Devops/cloud stuff: Ansible, github actions, AWS, Openstack. 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gstelang&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gstelang&layout=compact&theme=radical)
