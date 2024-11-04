@@ -5,7 +5,7 @@ I am a passionate developer with experience in full stack development, cloud com
 
 ## Tech I know (or have experience)
 * Programming languages: Go, Node.js, Java, Python, Ruby (JRuby), C#
-* Databases: MySQL, Cassandra, ElasticSearch, Kafka
+* Databases: MySQL, Cassandra, ElasticSearch, Kafka, Redis
 * Devops/cloud stuff: Kubernetes, Docker, AWS, Openstack, Ansible, github actions.
 
 ## Top Languages
